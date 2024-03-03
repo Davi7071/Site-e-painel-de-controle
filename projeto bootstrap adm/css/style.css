@@ -1,0 +1,48 @@
+.cor-padrao{
+    background-color: #5995b6 !important;
+    border-color: #4c7b94 !important;
+    color: white !important;
+   }
+  
+   body{
+    background-color: rgb(225,225,225);
+  }
+
+.navbar {
+    background-color: #5491B9;
+    text-decoration: none;
+    width: 100%;  
+    padding: 15px;
+}
+  
+li a{
+text-decoration: none;
+color: #ffffff;
+}
+
+li:hover{
+
+background-color:#497797 ;
+
+}
+
+header{
+padding: 20px;
+background-color: #333;
+color: white;
+}
+
+header p{
+
+margin-top:7px;
+
+}
+
+.colorbg{background-color: #5491B9;}
+
+.breadcrumb{
+    color: black;
+    background-color: white;
+    padding: 10px;
+    margin: 15px;
+}   
