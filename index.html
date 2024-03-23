@@ -1,6 +1,6 @@
 <?php
 try {
-    $pdo = new PDO("mysql:host=localhost;dbname=", "root", "");
+    $pdo = new PDO("mysql:host=localhost;dbname=projeto_bootstrap", "root", "");
     $pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
     
     $query = "SELECT sobre FROM tb_sobre1"; // Alteração aqui
